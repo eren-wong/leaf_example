@@ -1,0 +1,6 @@
+{
+    "LogLevel": "debug",
+    "TCPAddr": "127.0.0.1:3766",
+    "WSAddr": "ws://127.0.0.1:4766",
+    "ConsolePort": 3420
+}

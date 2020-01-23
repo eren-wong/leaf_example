@@ -1,0 +1,7 @@
+{
+    "LogLevel": "debug",
+    "TCPAddr": ":3766",
+    "WSAddr": ":4766",
+    "ConsolePort": 3421,
+    "MaxConnNum": 20000
+}
